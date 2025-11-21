@@ -232,4 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Add multi-language support
 - [ ] Implement user analytics dashboard
 
+
+## Telegram Interface (Command: /menu)
+<img width="1160" height="785" alt="Screenshot 2025-11-21 at 11 26 58 PM" src="https://github.com/user-attachments/assets/4ae404e4-8840-4ef2-8ad0-b9dbe394959a" />
+
+
 ---
